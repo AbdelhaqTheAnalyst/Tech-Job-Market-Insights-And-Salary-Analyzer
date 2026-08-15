@@ -50,7 +50,7 @@ Based on the analysis of **10,568 processed job openings**, the dashboard uncove
 
 ## 📈 Dashboard Preview & Live Link
 
-![Dashboard Preview](Tech_Job_Market_Insights_And_Salary_Analyzer_Dashboard.png)
+![Dashboard Preview](dashboard_preview3.png)
 * **Live Interactive Dashboard:** [https://public.tableau.com/app/profile/abdelhaq.elm/viz/Job_Market_Project/Dashboard1]
 * **Repository Content:** Contains the Python cleaning notebook, SQL migration script, and clean `.csv` dataset.
 
